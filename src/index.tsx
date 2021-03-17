@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// import '@elastic/eui/dist/eui_theme_light.css';
+import './pyrene-theme.scss'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
