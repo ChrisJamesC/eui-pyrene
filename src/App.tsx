@@ -1,13 +1,25 @@
 import React from 'react';
-import {EuiSuperDatePicker} from '@elastic/eui'
-// import logo from './logo.svg';
+import {EuiSuperDatePicker, EuiDatePicker} from '@elastic/eui'
 import './App.css';
+import moment from 'moment';
 
 function App() {
   const handleTimeChange = () => {}
-  return (
+  const [startDate, setStartDate] = React.useState<moment.Moment>(moment()); 
+   return (
     <div className="App">
-      <EuiSuperDatePicker onTimeChange={handleTimeChange}/>
+      <div>
+        <EuiSuperDatePicker onTimeChange={handleTimeChange}/>
+      </div>
+      <br/>
+      <div>
+        <EuiDatePicker
+          showTimeSelect
+          selected={startDate}
+          onChange={(date) => date && setStartDate(date)}
+        />
+      </div>
+
     </div>
   );
 }
