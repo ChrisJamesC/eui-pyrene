@@ -1,0 +1,267 @@
+:global(.pyreneIcon-calendar:before){
+  content: "\2260";
+}
+:global(.pyreneIcon-lightbulb:before){
+  content: "\7d";
+}
+:global(.pyreneIcon-path:before){
+  content: "\7b";
+}
+:global(.pyreneIcon-thumbsUp:before){
+  content: "\7c";
+}
+:global(.pyreneIcon-locationRetail:before){
+  content: "\5d";
+}
+:global(.pyreneIcon-locationBig:before){
+  content: "\5b";
+}
+:global(.pyreneIcon-locationMedium:before){
+  content: "\23";
+}
+:global(.pyreneIcon-locationSmall:before){
+  content: "\201c";
+}
+:global(.pyreneIcon-place:before){
+  content: "\b1";
+}
+:global(.pyreneIcon-clockFilled:before){
+  content: "\e7";
+}
+:global(.pyreneIcon-warningSquare:before){
+  content: "\2c";
+}
+:global(.pyreneIcon-moon:before){
+  content: "\2e";
+}
+:global(.pyreneIcon-flag:before){
+  content: "\3b";
+}
+:global(.pyreneIcon-alarmOutline:before){
+  content: "\3a";
+}
+:global(.pyreneIcon-alarmActive:before){
+  content: "\2a";
+}
+:global(.pyreneIcon-layers:before){
+  content: "\60";
+}
+:global(.pyreneIcon-reset:before){
+  content: "\3f";
+}
+:global(.pyreneIcon-minus:before){
+  content: "\5e";
+}
+:global(.pyreneIcon-isp:before){
+  content: "\27";
+}
+:global(.pyreneIcon-link:before){
+  content: "\3d";
+}
+:global(.pyreneIcon-edit:before){
+  content: "\29";
+}
+:global(.pyreneIcon-download:before){
+  content: "\28";
+}
+:global(.pyreneIcon-attachment:before){
+  content: "\2f";
+}
+:global(.pyreneIcon-copy:before){
+  content: "\26";
+}
+:global(.pyreneIcon-resolved:before){
+  content: "\25";
+}
+:global(.pyreneIcon-settings:before){
+  content: "\22";
+}
+:global(.pyreneIcon-chef:before){
+  content: "\2b";
+}
+:global(.pyreneIcon-visibilityOffOutline:before){
+  content: "\5a";
+}
+:global(.pyreneIcon-visibilityOutline:before){
+  content: "\59";
+}
+:global(.pyreneIcon-visibilityOff:before){
+  content: "\58";
+}
+:global(.pyreneIcon-visibility:before){
+  content: "\57";
+}
+:global(.pyreneIcon-star:before){
+  content: "\56";
+}
+:global(.pyreneIcon-globe:before){
+  content: "\55";
+}
+:global(.pyreneIcon-expand:before){
+  content: "\54";
+}
+:global(.pyreneIcon-collapse:before){
+  content: "\53";
+}
+:global(.pyreneIcon-clock:before){
+  content: "\52";
+}
+:global(.pyreneIcon-rewind:before){
+  content: "\51";
+}
+:global(.pyreneIcon-fastForward:before){
+  content: "\50";
+}
+:global(.pyreneIcon-newWindow:before){
+  content: "\4f";
+}
+:global(.pyreneIcon-sync:before){
+  content: "\4e";
+}
+:global(.pyreneIcon-exit:before){
+  content: "\4d";
+}
+:global(.pyreneIcon-account:before){
+  content: "\4c";
+}
+:global(.pyreneIcon-mdr:before){
+  content: "\4b";
+}
+:global(.pyreneIcon-protection:before){
+  content: "\4a";
+}
+:global(.pyreneIcon-server:before){
+  content: "\49";
+}
+:global(.pyreneIcon-document:before){
+  content: "\48";
+}
+:global(.pyreneIcon-phone:before){
+  content: "\47";
+}
+:global(.pyreneIcon-email:before){
+  content: "\46";
+}
+:global(.pyreneIcon-comment:before){
+  content: "\45";
+}
+:global(.pyreneIcon-wrench:before){
+  content: "\44";
+}
+:global(.pyreneIcon-moreVertical:before){
+  content: "\43";
+}
+:global(.pyreneIcon-moreHorizontal:before){
+  content: "\42";
+}
+:global(.pyreneIcon-block:before){
+  content: "\41";
+}
+:global(.pyreneIcon-trusted:before){
+  content: "\7a";
+}
+:global(.pyreneIcon-zoomOut:before){
+  content: "\79";
+}
+:global(.pyreneIcon-zoomIn:before){
+  content: "\78";
+}
+:global(.pyreneIcon-circle:before){
+  content: "\77";
+}
+:global(.pyreneIcon-skip:before){
+  content: "\76";
+}
+:global(.pyreneIcon-play:before){
+  content: "\75";
+}
+:global(.pyreneIcon-pin:before){
+  content: "\74";
+}
+:global(.pyreneIcon-location:before){
+  content: "\73";
+}
+:global(.pyreneIcon-refresh:before){
+  content: "\72";
+}
+:global(.pyreneIcon-notifications:before){
+  content: "\71";
+}
+:global(.pyreneIcon-add:before){
+  content: "\70";
+}
+:global(.pyreneIcon-addCircleOutline:before){
+  content: "\6f";
+}
+:global(.pyreneIcon-addRound:before){
+  content: "\6e";
+}
+:global(.pyreneIcon-eye:before){
+  content: "\6d";
+}
+:global(.pyreneIcon-hot:before){
+  content: "\6c";
+}
+:global(.pyreneIcon-question:before){
+  content: "\6b";
+}
+:global(.pyreneIcon-data:before){
+  content: "\6a";
+}
+:global(.pyreneIcon-home:before){
+  content: "\69";
+}
+:global(.pyreneIcon-trash:before){
+  content: "\68";
+}
+:global(.pyreneIcon-info:before){
+  content: "\67";
+}
+:global(.pyreneIcon-error:before){
+  content: "\66";
+}
+:global(.pyreneIcon-success:before){
+  content: "\65";
+}
+:global(.pyreneIcon-warning:before){
+  content: "\62";
+}
+:global(.pyreneIcon-check:before){
+  content: "\61";
+}
+:global(.pyreneIcon-infoOutline:before){
+  content: "\39";
+}
+:global(.pyreneIcon-search:before){
+  content: "\38";
+}
+:global(.pyreneIcon-delete:before){
+  content: "\37";
+}
+:global(.pyreneIcon-errorOutline:before){
+  content: "\36";
+}
+:global(.pyreneIcon-filter:before){
+  content: "\35";
+}
+:global(.pyreneIcon-collapsDown:before){
+  content: "\33";
+}
+:global(.pyreneIcon-collapsUp:before){
+  content: "\34";
+}
+:global(.pyreneIcon-chevronDown:before){
+  content: "\63";
+}
+:global(.pyreneIcon-chevronUp:before){
+  content: "\64";
+}
+:global(.pyreneIcon-chevronLeft:before){
+  content: "\32";
+}
+:global(.pyreneIcon-chevronRight:before){
+  content: "\31";
+}
+:global(.pyreneIcon-share:before){
+  content: "\30";
+}

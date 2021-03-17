@@ -1,0 +1,11 @@
+@import 'fonts/fonts.css';
+
+$euiColorPrimary: #05f;
+$euiColorAccent:#0bdbb9;
+$euiColorSuccess: #00d66b; 
+$euiColorWarning: #ff9500; 
+$euiColorDanger: #e61728;
+$euiBorderRadius: 2px;
+$euiFontFamily: FiraGO, Helvetica, sans-serif !important;
+
+@import '@elastic/eui/src/theme_light.scss';
